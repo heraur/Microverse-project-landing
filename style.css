@@ -1,0 +1,147 @@
+
+ /* header and hero section */
+ header{
+    background-color: #1f2937;
+    padding-left: 5%;
+    padding-right: 5%;
+    height: 550px;
+    
+ }
+
+ div h3{
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.hero-section{
+    display: flex;
+     
+}
+
+.image-hero{
+    margin-top: 5%;
+}
+
+.hero-section p,li{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+nav{
+     
+    margin-bottom: 25px;
+    height: 50px;
+     
+}
+
+
+nav span{
+    float:left;
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+nav ul{
+    display: flex;
+    float: right;
+}
+
+.hero-section p{
+    font-weight:lighter;
+}
+
+
+nav li {
+    list-style-type:none;
+     padding-right: 25px;
+    margin-right: 5%;
+} 
+
+.hero-section button{
+    margin-top: 35px;
+    background-color: #3382f6;
+    padding: 5px;
+    color: #f9faf8;
+    width: 125px;
+    height: 35px;
+    border: none;
+    font-weight: lighter;
+    font-size: medium;
+    border-radius: 10px;
+}
+
+/* first section */
+
+.second-section{
+    height: 400px;
+    
+}
+
+.explain-section{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    gap: 25px;
+}
+.second-section h3{
+    font-size: 36px;
+    font-weight: 600;
+    color: #1f2937;
+    text-align: center;
+}
+
+.box-1, .box-2, .box-3, .box-4{
+    height: 255px;
+    width: 250px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+
+
+/* third section */
+
+.third-section{
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    height: 400px;
+    text-align: center;
+
+}
+
+.third-section blockquote{
+    padding-top: 100px;
+    padding-left: 25%;
+    width: 600px;
+}
+
+
+.third-section p{
+    float: right;
+    font-weight: 500;
+}
+
+
+/* four section*/
+.four-section{
+    
+    height: 400px;
+    background-color: lightblue;
+}
+
+.four-section .call-action{
+    background-color: #3382f6;
+    height: 200px;
+    
+
+}
+
+
+.four-section button{
+    float: right;
+}
+
+
+
+
