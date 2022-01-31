@@ -138,14 +138,23 @@ nav li {
     margin: auto;
     border-radius: 10px;
     padding: 15px 15px 15px 15px;
-
 }
 
 
 .four-section button{
     float: right;
-    
+    width: 150px;
+    height: 25px;
+    border:0.1px solid white;
+    background-color:#3382f6 ;
+    border-radius: 10px;
+    color: white; 
 }
+
+.btn{
+
+}
+ 
 
 
 
