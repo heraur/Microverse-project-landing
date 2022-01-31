@@ -127,7 +127,7 @@ nav li {
 .four-section{
     
     height: 250px;
-    background-color: lightblue;
+    /* background-color: lightblue; */
     padding-top: 125px;
 }
 
@@ -137,7 +137,10 @@ nav li {
     width: 50%;
     margin: auto;
     border-radius: 10px;
-    padding: 15px 15px 15px 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 
@@ -149,11 +152,23 @@ nav li {
     background-color:#3382f6 ;
     border-radius: 10px;
     color: white; 
+     
 }
 
-.btn{
+ .btn button{
+     margin-top: -50px;
+ }
 
-}
+
+ .footer{
+     margin: auto;
+     background-color:#1f2937;
+     height: 50px;
+     text-align: center;
+     padding-top: 17px;
+     font-size: 18px;
+     color: #e5e7eb;
+ }
  
 
 
