@@ -126,20 +126,25 @@ nav li {
 /* four section*/
 .four-section{
     
-    height: 400px;
+    height: 250px;
     background-color: lightblue;
+    padding-top: 125px;
 }
 
-.four-section .call-action{
+.call-action{
     background-color: #3382f6;
-    height: 200px;
-    
+    height: 100px;
+    width: 50%;
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px 15px 15px 15px;
 
 }
 
 
 .four-section button{
     float: right;
+    
 }
 
 
